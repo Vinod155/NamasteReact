@@ -8,7 +8,7 @@ const About=()=>{
             <hr/>
             <User name={"Vinnie (function)"}/>
             <hr/>
-            <UserClass/>
+            <UserClass name={"vinnie (Class)"} location={"Dalhousie"}/>
         </div>
     )
 }
